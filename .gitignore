@@ -1,3 +1,27 @@
+
+#=================================
+# Others
+#=================================
+**.DS_Store
+
+#=================================
+# Visual studio code
+#=================================
+.vscode/
+*.code-workspace
+
+#=================================
+# Project
+#=================================
+/public/avatars
+/storage/logs
+/storage/framework/cache
+/.idea
+/.vagrant
+yarn-error.log
+/nbproject/private/
+nbproject
+uploads
 vendor/
 node_modules/
 npm-debug.log
